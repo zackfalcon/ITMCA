@@ -1,8 +1,5 @@
 ---
 
-
----
-
 <h1 id="entrainement-itmca">ENTRAINEMENT ITMCA</h1>
 <p>Ce site a été réalisé afin que les étudiants puisse s’entrainer au quizz de culture informatique d’Epitech en effet il n’y a pas vraiment de grand moyens de reviser si ce n’est que QUIZZUP avec un taux de nouvelle question aléatoire.</p>
 <p>Le code du projet n’est pas donné afin qu’aucun utilisateur n’accède directement aux réponses mais vous pouvez utiliser le quizz avec le lien ci-dessous en illimité ! Bonne chance !</p>
